@@ -61,6 +61,6 @@ I am driven by the aspiration to realize my full potential and make my family pr
 
 Feel free to explore the details and learn more about my journey and skills!
 
-Repository Link: [Jarache-Khunyeli-Bio](https://github.com/your-username/your-repository)
+Repository Link: [Jarache-Khunyeli-Bio](https://github.com/910629/first_profile)
 
 ---
