@@ -13,16 +13,18 @@ This HTML document provides a brief biography of Jarache Khunyeli, a software en
 - **Whatsapp**: 063 617 7338
 - **Email**: khunyelijarache@gmail.com
 - **LinkedIn**: [Jarache Khunyeli](https://www.linkedin.com/in/jarache-khunyeli/)
+- **GitHub**: [Jarache Khunyeli's GitHub](https://github.com/910629)
+- **HyperionDev Portfolio**: [Jarache Khunyeli's Portfolio](https://www.hyperiondev.com/portfolio/JS22110005406/)
 
 ## Introduction
 
-Greetings! I am Jarache Khunyeli, a dreamer and a believer with a strong track record of achieving set goals. My journey from Nashua Mobile to Capitec Bank Ltd. has instilled in me a deep passion for customer service and a commitment to client-centric principles.
+Greetings! I am Jarache Khunyeli, a dreamer and a believer with a strong track record of achieving set goals. My experience at Capitec Bank Ltd. (2019 - 2022) gave me a deep passion for understanding the client's perspective, and ingrained in me the principle of Client Centricity.
 
 ## About Me
 
-I am driven by the aspiration to realize my full potential and make my family proud. Sharing knowledge is a core value for me, and I strive to help those in need or those interested in gaining insights.
+My greatest passion lies in meeting challenges and overcoming them. I enjoy being challenged, and I enjoy the sense of accomplishment that comes with overcoming challenges. This has expecially been true for my coding journey.
 
-## Skills and Competencies
+## Technical Skills
 
 1. Variables and Control Structures - Python
 2. Defensive Programming
@@ -36,31 +38,35 @@ I am driven by the aspiration to realize my full potential and make my family pr
    - User Interface (Data Collection & Display via Templates)
    - User Registration, Authentication & Login
 8. Git Version Control
+9. Containerization with Docker
+10. Software Documentation
+
+## Soft Skills
+1. Attention to detail
+2. Initiator
+3. Working under pressure
+4. Willingness to learn
+5. Quick Study
+6. Conflict Resolution
+7. Team Player
 
 ## Education
 
-- **Highest Qualification**: National Senior Certificate (Grade 12)
-  - Subjects:
-    - English Home Language
-    - Afrikaans First Additional Language
-    - Mathematics
-    - Life Sciences
-    - Physical Sciences
-    - Accounting
-    - Life Orientation
+- **HyperionDev**: Software Engineering Bootcamp Certificate
+
+- **Rietondale**: National Senior Certificate (Grade 12)
 
 - **Work-related skills certificate**: Further Education and Training Certificate: Banking (NQF Level 4)
 
-## Work Experience
+## Experience
 
-1. **Capitec Bank Limited** - Service Consultant
-2. **Pretoria North Toyota** - Sales Consultant
-3. **Spur Steak Ranches** - Waitron
-4. **Riverside Sun Resort** - Food and Beverage Waitron
-5. **Nashua Mobile** - Sales Consultant
+1. **Intern Career** - Virtual Intern (2024 - to date)
+2. **HyperionDev** - Bootcamp Student (2022 - 2024)
+3. **Capitec Bank** - Service Consultant (2019 - 2022)
+
 
 Feel free to explore the details and learn more about my journey and skills!
 
-Repository Link: [Jarache-Khunyeli-Bio](https://github.com/910629/first_profile)
+HyperionDev Portfolio Link: [Jarache-Khunyeli-Bio](https://www.hyperiondev.com/portfolio/JS22110005406/)
 
 ---
